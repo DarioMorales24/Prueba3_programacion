@@ -1,7 +1,5 @@
 import globales, math
 
-# lambda x:x [variable], reverse=True
-
 def producto_valor_mas_alto():
     todos_los_productos = globales.leer_archivo_json('productos.json')
 
